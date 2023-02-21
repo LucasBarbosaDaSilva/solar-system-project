@@ -1,0 +1,35 @@
+#solar-system {
+
+  top: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+  font-weight: 400;
+}
+
+#planet-name {
+  display: flex;
+  justify-content: center;
+/* transform: translateY(230px) ; */
+
+font-family: 'Epilogue';
+font-style: normal;
+font-weight: 300;
+font-size: 40px;
+line-height: 150%;
+/* identical to box height, or 60px */
+
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+/* #solar-system img(1) {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 10em;
+} */
+

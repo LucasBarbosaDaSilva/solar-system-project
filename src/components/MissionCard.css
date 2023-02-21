@@ -1,0 +1,41 @@
+.mission {
+  display: flex;
+  flex-direction: column;
+  align-content: flex-start ;
+  width: 484px;
+height: 200px;
+
+
+background: rgba(24, 26, 37, 0.5);
+mix-blend-mode: hard-light;
+border: 1px solid #FFFFFF;
+border-radius: 19px; 
+  /* border: 1px solid white;
+  border-radius: 5%;
+  font-size: 16px;
+  width: 50%;
+  margin: 10px 10px;
+  background: rgba(0, 0, 0, .5); */
+  /* box-sizing: border-box;
+
+*/
+}
+
+#name {
+  color: aliceblue;
+  justify-content: center;
+  font-family: monospace;
+  font-size: 25px;
+  display: flex;
+}
+
+.mission-card {
+  flex-direction: row;
+  justify-content: space-around;
+  color: aliceblue;
+  text-align: center;
+  font-family: monospace;
+  font-size: 14px;
+  display: flex;
+  transform: translateY(40px);
+}

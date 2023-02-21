@@ -1,0 +1,249 @@
+#planet-card {
+  display: flex;
+  align-items: center;
+  flex-direction: column-reverse;
+
+
+}
+
+.Mercúrio {
+ display: flex;
+width: 41px;
+height: 31px;
+
+
+
+/* box-shadow: inset 4px -3px 4px rgba(0, 0, 0, 0.5); */
+}
+
+.Vênus {
+ display: flex;
+  width: 102px;
+height: 76px;
+
+
+
+/* box-shadow: inset 4px -3px 4px rgba(0, 0, 0, 0.5); */
+}
+
+.Terra {
+ display: flex;
+  width: 106px;
+height: 79px;
+
+
+
+/* box-shadow: inset 11px -6px 4px rgba(0, 0, 0, 0.4); */
+}
+
+.Marte {
+ display:flex;
+  width: 66px;
+height: 50px;
+
+
+
+/* box-shadow: inset 7px -5px 7px rgba(0, 0, 0, 0.6); */
+}
+
+.Júpiter {
+ display: flex;
+  width: 272px;
+height: 204px;
+
+
+
+/* box-shadow: inset 4px -3px 4px rgba(0, 0, 0, 0.5); */
+}
+
+.Saturno {
+  display: flex;
+  width: 282.41px;
+height: 210.9px;
+
+
+
+transform: rotate(-16.53deg);
+}
+
+.Urano {
+  display :flex ;
+  width: 144px;
+height: 109px;
+
+
+
+/* box-shadow: inset 4px -3px 4px rgba(0, 0, 0, 0.5); */
+}
+
+.Netuno {
+  display: flex;
+width: 144px;
+height: 107px;
+
+
+
+/* box-shadow: inset 6px 1px 16px rgba(32, 59, 155, 0.8); */
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+#Mercúrio {
+  display: flex;
+width: 71px;
+height: 24px;
+
+
+font-family: 'Epilogue';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+
+color: #FFFFFF;
+}
+
+#Vênus {
+ display: flex;
+width: 48px;
+height: 24px;
+
+
+font-family: 'Epilogue';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+
+color: #FFFFFF;
+}
+
+#Terra {
+  display: flex;
+width: 41px;
+height: 24px;
+
+
+font-family: 'Epilogue';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+
+color: #FFFFFF;
+}
+
+#Marte {
+  display: flex;
+width: 47px;
+height: 24px;
+
+
+font-family: 'Epilogue';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+
+color: #FFFFFF;
+}
+
+#Júpiter {
+ display: flex;
+width: 52px;
+height: 24px;
+
+
+font-family: 'Epilogue';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+
+color: #FFFFFF;
+}
+
+#Saturno {
+  display: flex;
+width: 63px;
+height: 24px;
+
+
+font-family: 'Epilogue';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+
+color: #FFFFFF;
+}
+
+#Urano {
+  display: flex;
+width: 47px;
+height: 24px;
+
+
+font-family: 'Epilogue';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+
+color: #FFFFFF;
+
+}
+
+#Netuno {
+  display: flex;
+width: 58px;
+height: 24px;
+
+
+font-family: 'Epilogue';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+
+color: #FFFFFF;
+}
+/* #planetName {
+  color: aliceblue;
+text-align: center;
+font-family: monospace;
+font-size: 20px;
+} */
+
+/* .{
+  position: absolute;
+width: 41px;
+height: 31px;
+left: 39px;
+top: 620px;
+box-shadow: inset 4px -3px 4px rgba(0, 0, 0, 0.5);
+} */
+/* # {
+  width: 106px;
+height: 79px;
+left: 278px;
+top: 596px;
+
+
+box-shadow: inset 11px -6px 4px rgba(0, 0, 0, 0.4);
+} */
